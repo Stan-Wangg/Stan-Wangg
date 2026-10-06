@@ -1,7 +1,7 @@
 # Hi, I'm Stanley 👋
 
 I'm a senior data analyst.\
-No tech degree. No tech background when I started.\
+No degree. No tech background when I started.\
 I taught myself everything for $0.00, from YouTube.
 
 Now I help 125K+ people on Threads become self-taught data analysts, one stage at a time.

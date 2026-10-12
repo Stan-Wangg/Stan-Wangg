@@ -1,14 +1,29 @@
 # Hi, I'm Stanley 👋
 
-I'm a senior data analyst.\
-I landed my first data analyst job without a degree. No tech background when I started.\
-I taught myself everything for $0.00, from YouTube.
+I'm a senior data analyst who manages coding agents inside Claude Code.
 
-Now I help 125K+ people on Threads become self-taught data analysts, one stage at a time.
+This year I've built my own AI operating system for Claude Code to run on.
+
+I also teach data analysis to 128,000 people on Threads.
 
 ---
 
-### 🗺️ Start here
+### 🛠️ What I've built
+
+**AI and agents**
+
+- [stanleywangg.com](https://stanleywangg.com/?utm_source=github&utm_medium=profile&utm_campaign=profile-readme): built with Claude Code
+
+**Data analysis**
+
+- [Data Analyst Roadmap 2026](https://github.com/Stan-Wangg/data-analyst-roadmap): six stages, all free
+- [Project 01](https://github.com/Stan-Wangg/data-analyst-roadmap/blob/main/project-01-messy-sales-report/README.md): a messy sales report, cleaned and built in Excel
+
+---
+
+### 🗺️ Here to learn data analysis
+
+I'm a self-taught data analyst. I landed my first data analyst job without a degree. I taught myself Power BI on YouTube.
 
 **[Data Analyst Roadmap 2026](https://github.com/Stan-Wangg/data-analyst-roadmap)**: the six stages I'd follow again, all free, ending in a real portfolio project you can fork.
 
@@ -38,6 +53,7 @@ Excel → Basic SQL → Basic Power BI → Intermediate SQL → Intermediate Pow
 
 ### ☕ Connect with me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stanley-wang-88a377247)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://stanleywangg.com/?utm_source=github&utm_medium=profile&utm_campaign=profile-readme)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@stanleywangg)
 [![Newsletter](https://img.shields.io/badge/Newsletter-FF5722?style=for-the-badge&logo=substack&logoColor=white)](https://stanleywangg.substack.com/subscribe?utm_source=github&utm_medium=profile&utm_campaign=profile-readme)

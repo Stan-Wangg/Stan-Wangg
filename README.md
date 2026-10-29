@@ -37,7 +37,6 @@ Excel → Basic SQL → Basic Power BI → Intermediate SQL → Intermediate Pow
 
 - 🏅 [The Self-Taught Data Analyst Roadmap](https://stan.store/stanleywangg/p/the-selftaught-data-analyst-roadmap?utm_source=github&utm_medium=profile&utm_campaign=profile-readme): every skill in the three pillars, a test for each one, and a tracker
 - 🏅 [The 30-Minute Analyst](https://stan.store/stanleywangg/p/the-30minute-analyst?utm_source=github&utm_medium=profile&utm_campaign=profile-readme): 30 nights, one skill each night, in order
-- 🏅 [Excel Analyst Fast Track](https://stan.store/stanleywangg/p/5day-excel-sprint?utm_source=github&utm_medium=profile&utm_campaign=profile-readme): your first Excel portfolio dashboard in five days
 
 ---
 
